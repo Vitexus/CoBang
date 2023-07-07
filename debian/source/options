@@ -1,0 +1,5 @@
+tar-ignore = ".git"
+tar-ignore = ".gitignore"
+tar-ignore = ".vscode"
+tar-ignore = "*.mo"
+extend-diff-ignore  = "(setup.py|setup.cfg|MANIFEST.in|meson.build|.mo)"
